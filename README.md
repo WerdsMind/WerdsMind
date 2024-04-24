@@ -1,12 +1,12 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20dgwerds!&descAlign=50&descSize=30&animation=twinkling">
-</p>
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=0:eb008b,100:8f33c4&text=DGwerds&descAlignY=49&descAlign=80&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=89&fontAlignY=36&animation=fadeIn&strokeWidth=0&desc=WELCOME">
+</div>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;Follow+me+for+more+projects!" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=cb24b9&width=435&lines=Welcome+to+my+Github+Profile+Page!;Follow+me+for+more+projects!" alt="Typing SVG" /></a> </p>
 
 <!-- my github stats text start -->
 <div align="center"> 
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=cb24b9&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
 
@@ -24,8 +24,13 @@
     <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=dgwerds&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&no-bg=true&no-frame=true&row=3&column=3"  alt="github profile trophy"/>
 </div>
 
-<p align="center"> <img align="center" width="150" src="https://komarev.com/ghpvc/?username=dgwerds&label=PROFILE+VIEWS&style=flat-square"> </p>
+</br>
 
+<p align="center"> <img align="center" width="150" src="https://komarev.com/ghpvc/?username=dgwerds&label=PROFILE+VIEWS&style=flat-square&color=cb24b9"> </p>
+
+<div align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:eb008b,100:8f33c4&section=footer">
+</div>
 <!-- <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
 [![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
@@ -38,9 +43,3 @@
 [![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p>
 -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-</p>
