@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=0:eb008b,100:8f33c4&text=DGwerds&descAlignY=49&descAlign=80&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=89&fontAlignY=36&animation=fadeIn&strokeWidth=0&desc=WELCOME">
 </div>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=cb24b9&width=435&lines=Welcome+to+my+Github+Profile+Page!;Follow+me+for+more+projects!" alt="Typing SVG" /></a> </p>
-
 <!-- my github stats text start -->
 <div align="center"> 
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=cb24b9&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
@@ -30,8 +28,10 @@
 
 <div align="center"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:eb008b,100:8f33c4&section=footer">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=2000&center=true&random=true&color=cb24b9&width=435&lines=Welcome+to+my+Github+profile;Bienvenidos+a+mi+perfil+de+Github;Sigueme+para+ver+m%C3%A1s+proyectos;Follow+me+for+more+projects;Hello+world!!!;Ingeniero+de+software" alt="Typing SVG" />
 </div>
-<!-- <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
+
+<br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
 [![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
@@ -42,4 +42,4 @@
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
 [![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p>
--->
+
