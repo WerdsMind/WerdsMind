@@ -1,17 +1,3 @@
-<br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
-<br> <p align="center"> 
-![Main OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Microsoft&logoColor=ffffff&color=092642)
-![Second OS](https://img.shields.io/badge/Second_OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=ffffff&color=e95420)
-[![Godot](https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godot-engine&logoColor=ffffff&color=4588b9)](https://godotengine.org/)
-[![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
-[![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
-[![Photo Editing](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
-[![Music Production](https://img.shields.io/badge/Audio/Music-FL_Studio-informational?style=flat&logo=Audacity&logoColor=red&color=fc0100)](https://www.image-line.com/)
-[![Compositing](https://img.shields.io/badge/Compositing-Natron-informational?style=flat&logo=NGINX&color=3cf10e)](https://natrongithub.github.io/)
-[![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
-[![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
-</p>
-
 <div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=0:eb008b,100:8f33c4&text=DGwerds&descAlignY=49&descAlign=80&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=89&fontAlignY=36&animation=fadeIn&strokeWidth=0&desc=WELCOME">
 </div>
