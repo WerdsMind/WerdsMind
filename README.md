@@ -1,10 +1,41 @@
+<!-- feel free to contact me text start -->
+<div align="center"> 
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
+</div>
+<!-- feel free to contact me text end -->
+
+<br/>
+
+<!-- social media links start -->
+<table align="center">
+    <thead align="center">
+        <tr>
+            <th>
+                <a href="https://www.linkedin.com/in/sandq" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/sandq/">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://github.com/DGwerds" target="_blank" rel="noopener noreferrer" title="github.com/DGwerds">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:Sandq.2003@gmail.com" target="_blank" rel="noopener noreferrer" title="Sandq.2003@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
+<!-- social media links end -->
+
 </details>
     <summary> MY RESUME </summary>
     <br/>
     <br/>
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link" target="_blank" rel="noopener noreferrer"> 
         <div align="right">
-            <img loading="lazy" width="21px" src="./media/icons/cv.png" alt="resume icon" />
             <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=260&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
         </div>
     </a>
@@ -14,20 +45,17 @@
     <br/>
     <!-- Montasim's Photo -->
     <img loading="lazy" align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=475&height=21&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="mohammad montasim -al- mamun shuvo" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=475&height=21&lines=Santiago+Andres+Delgado+Quiceno" alt="Santiago Andres Delgado Quiceno" />
     <br/>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=16&lines=Frontend+Developer" alt="frontend developer" />
-    <br/>
-    <br/>
-    <br/>
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=16&lines=Software+engineer" alt="software engineer" />
 <!-- quick link start -->
 <pre>
-<b>Email     :</b> <a href="montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer">montasimmamun@gmail.com</a> 
-<b>Portfolio :</b> <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">montasim-dev.web.app</a>
-<b>Mobile    :</b> <a href="+8801722815469" target="_blank" rel="noopener noreferrer">+8801722815469</a>
-<b>GitHub    :</b> <a href="https://github.com/montasim" target="_blank" rel="noopener noreferrer">github.com/montasim</a>
+    <b>Email:</b> <a href="Sandq.2003@gmail.com" target="_blank" rel="noopener noreferrer">Sandq.2003@gmail.com</a> 
+    <b>Mobile:</b> <a href="+8801722815469" target="_blank" rel="noopener noreferrer">+57 3028326260</a>
+    <b>GitHub:</b> <a href="https://github.com/DGwerds" target="_blank" rel="noopener noreferrer">github.com/DGwerds</a>
 </pre>
+<!-- <b>Portfolio :</b> <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">montasim-dev.web.app</a> -->
 <!-- quick link end -->
     <br/>
     <!-- skills start -->
