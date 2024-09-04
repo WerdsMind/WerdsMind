@@ -9,8 +9,12 @@
 <!-- my github stats text end -->
 
 <div align="center">
-    <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+  <!-- github streak start for light theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF">
+    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=000000&ring=EB008B&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=000000" alt="current streak stats" />
+  </picture>
+</div>
     <!-- github streak end -->
     <!-- github most used languages start -->
     <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=dgwerds&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
