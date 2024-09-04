@@ -18,13 +18,26 @@
 </div>
     <!-- github streak end -->
     <!-- github most used languages start -->
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=dgwerds&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <div align="center">
+  <picture>
+    <!-- Tema oscuro -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=dgwerds&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
+    <!-- Tema claro -->
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=dgwerds&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=000000&icon_color=61dafb&bg_color=f7f7f7&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+  </picture>
+</div>
     <!-- github most used languages end -->
 </div>
 
 
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=dgwerds&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&no-bg=true&no-frame=true&row=3&column=3"  alt="github profile trophy"/>
+  <!-- GitHub profile trophy -->
+  <picture>
+    <!-- Tema oscuro -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-mnex.vercel.app?username=dgwerds&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&no-bg=true&no-frame=true&row=3&column=3">
+    <!-- Tema claro -->
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=dgwerds&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=darkhub&no-bg=true&no-frame=false&row=3&column=3" alt="github profile trophy"/>
+  </picture>
 </div>
 
 </br>
