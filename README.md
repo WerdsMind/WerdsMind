@@ -9,10 +9,11 @@
 <!-- my github stats text end -->
 
 <div align="center">
-  <!-- github streak start for light theme -->
+  <!-- github streak start for dark/light theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF">
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=000000&ring=EB008B&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=000000" alt="current streak stats" />
+
+<img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=f7f7f7&stroke=8F33C4&border=000000&ring=EB008B&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=000000" alt="current streak stats" />
   </picture>
 </div>
     <!-- github streak end -->
