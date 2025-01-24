@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=0:eb008b,100:8f33c4&text=DGwerds&descAlignY=49&descAlign=80&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=89&fontAlignY=36&animation=fadeIn&strokeWidth=0&desc=WELCOME">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=0:eb008b,100:8f33c4&text=WerdsMind&descAlignY=16&descAlign=20&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=89&fontAlignY=36&animation=fadeIn&strokeWidth=0&desc=>WELCOME_TO:">
 </div>
 
 <!-- my github stats text start -->
