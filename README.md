@@ -11,16 +11,16 @@
 <div align="center">
   <!-- github streak start for dark/light theme -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF">
-<img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=dgwerds&hide_border=true&date_format=j%20M%5B%20Y%5D&background=f7f7f7&stroke=8F33C4&border=000000&ring=EB008B&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=000000" alt="current streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mnex.vercel.app?user=WerdsMind&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF">
+<img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=WerdsMind&hide_border=true&date_format=j%20M%5B%20Y%5D&background=f7f7f7&stroke=8F33C4&border=000000&ring=EB008B&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=000000" alt="current streak stats" />
   </picture>
 </div>
     <!-- github streak end -->
     <!-- github most used languages start -->
     <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=dgwerds&hide_title=false&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=000000&icon_color=61dafb&bg_color=f7f7f7&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" alt="most used language stats">
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=dgwerds&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=WerdsMind&hide_title=false&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=000000&icon_color=61dafb&bg_color=f7f7f7&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" alt="most used language stats">
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=WerdsMind&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
   </picture>
 </div>
     <!-- github most used languages end -->
@@ -30,8 +30,8 @@
 <div align="center">
   <!-- GitHub profile trophy -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-mnex.vercel.app?username=dgwerds&theme=darkhub&no-bg=true&no-frame=false&row=3&column=3" alt="github profile trophy">
-    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=dgwerds&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&no-bg=true&no-frame=true&row=3&column=3"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-mnex.vercel.app?username=WerdsMind&theme=darkhub&no-bg=true&no-frame=false&row=3&column=3" alt="github profile trophy">
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=WerdsMind&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&no-bg=true&no-frame=true&row=3&column=3"/>
   </picture>
 </div>
 
@@ -41,9 +41,9 @@
   <!-- Profile views counter -->
   <picture>
     <!-- Tema oscuro -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=dgwerds&label=PROFILE+VIEWS&style=flat-square&color=cb24b9">
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=WerdsMind&label=PROFILE+VIEWS&style=flat-square&color=cb24b9">
     <!-- Tema claro -->
-    <img align="center" width="150" src="https://komarev.com/ghpvc/?username=dgwerds&label=PROFILE+VIEWS&style=flat-square&color=cb24b9" alt="Profile views counter" />
+    <img align="center" width="150" src="https://komarev.com/ghpvc/?username=WerdsMind&label=PROFILE+VIEWS&style=flat-square&color=cb24b9" alt="Profile views counter" />
   </picture>
 </div>
 
